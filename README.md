@@ -1,11 +1,7 @@
 <div align="center">
   <a href="https://github.com/mineruwo">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요!&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=제 프로필에 온걸 환영합니다.&fontSize=90" />
   </a>
-</div>
-
-<div align="center"> 
-  <h3 align="center">대한민국에서 열정적으로 개발하는 개발자입니다 🇰🇷</h3>
 </div>
 
 <div align="center">
