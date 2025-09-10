@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://github.com/mineruwo">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=제 프로필에 온걸 환영합니다.&fontSize=90" />
-  </a>
-</div>
+
 
 <div align="center">
   <h3>📬 연락 및 채널</h3>
@@ -64,7 +60,4 @@
 
 <br>
 
-<div align="center">
-  <h3>👀 프로필 방문자 수</h3>
-  <img src="https://komarev.com/ghpvc/?username=mineruwo&label=방문자&color=brightgreen&style=flat-square" alt="profile visitors" />
-</div>
+
