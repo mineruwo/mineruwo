@@ -45,24 +45,39 @@
 ### ㈜ 미러로이드 (2022.10 ~ 2025.02)
 *총 2년 4개월*
 
-1.  **Mirat (헤어 시뮬레이션)**
-    - Unity, OpenCV 등을 이용한 서비스 개발 및 앱 유지 보수
+#### 💇‍♀️ Mirat (헤어 시뮬레이션)
+* **주요 업무:** 서비스 개발 및 앱 유지 보수
+* **사용 기술:** `Unity`, `OpenCV`
 
-2.  **Mirat Beauty (반영구 시술 시뮬레이션)**
-    - Unity, Image Server API 통신을 이용한 서비스 개발 및 런칭, 유지 보수
+#### 💄 Mirat Beauty (반영구 시술 시뮬레이션)
+* **주요 업무:** 서비스 개발 및 런칭, 유지 보수
+* **사용 기술:** `Unity`, `Image Server API`
 
-3.  **Mirat Studio (포토 스튜디오)**
-    - Unity, OpenCV, Local ImageServer API, CameraSDK 등을 이용한 서비스 개발 및 런칭, 유지 보수 및 국외 런칭
+#### 📸 Mirat Studio (포토 스튜디오)
+* **주요 업무:** 서비스 개발, 런칭, 유지 보수 및 국외 런칭
+* **사용 기술:** `Unity`, `OpenCV`, `Local ImageServer API`, `CameraSDK`
 
-4.  **Magic photo (프로젝트 가제, 3D 포스터)**
-    - Volt CameraSDK, Astra 3D depth CameraSDK, Unity, OpenCV 등을 이용한 서비스 개발
+#### ✨ Magic photo (3D 포스터)
+* **주요 업무:** 서비스 개발
+* **사용 기술:** `Volt CameraSDK`, `Astra 3D depth CameraSDK`, `Unity`, `OpenCV`
 
-5.  **Mirat App (Mirat와 연동되는 고객 관리 앱)**
-    - Unity와 UniWebView를 이용한 지정된 페이지 뷰어 프로그램 서비스 및 런칭
+#### 📱 Mirat App (고객 관리 앱)
+* **주요 업무:** 지정된 페이지 뷰어 프로그램 서비스 및 런칭
+* **사용 기술:** `Unity`, `UniWebView`
 
 <br>
 
 ## 📚 학습 프로젝트 (Study Projects)
+
+### 🚚 화물 운송 중개 플랫폼
+* **프로젝트 개요:** 화물주와 차주 간의 운송 주문을 연결하고 효율적으로 관리하기 위한 플랫폼입니다. 실시간 운송 추적, 정산 시스템, 그리고 사용자 및 관리자 간의 원활한 소통을 지원합니다.
+* **개발 기간:** 2025.07.25 ~ 2025.09.05
+* **사용 기술:** `Java`, `React`, `JavaScript`, `PostgreSQL`, `Supabase`, `Render`
+
+### 👕 의류 쇼핑몰 클론
+* **프로젝트 목표:** 가상의 의류 쇼핑몰을 제작하여 기능 구현 및 실제 동작과 가깝게 이용자에게 제공하고자 함 (참고: 무신사, H&M)
+* **개발 기간:** 2025.04.22 ~ 2025.05.08 (약 2주)
+* **사용 기술:** `HTML`, `CSS`, `JavaScript`, `VSCode`
 
 ### 🦆 Untitled Goose Game 모작
 * **게임 장르:** 퍼즐 / 잠입
