@@ -44,6 +44,7 @@
 <a href="https://github.com/mineruwo">
   <img src="https://github-readme-stats.vercel.app/api?username=mineruwo&show_icons=true&theme=tokyonight" alt="mineruwo의 GitHub 통계" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/mineruwo">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mineruwo&layout=compact&theme=tokyonight" alt="mineruwo의 상위 언어" />
 </a>
