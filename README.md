@@ -129,7 +129,7 @@
 
 ---
 
-<h3>📊 GitHub 통계</h3>
+<h3>📊 GitHub 통계 및 활동</h3>
 <a href="https://github.com/mineruwo">
   <img src="https://github-readme-stats.vercel.app/api?username=mineruwo&show_icons=true&theme=tokyonight" alt="mineruwo의 GitHub 통계" />
 </a>
@@ -138,8 +138,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mineruwo&layout=compact&theme=tokyonight" alt="mineruwo의 상위 언어" />
 </a>
 <br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mineruwo" alt="mineruwo" />
-  <br>
+<img src="https://github-profile-trophy.vercel.app/?username=mineruwo" alt="mineruwo" />
+
+<br>
+
+---
+
+<h3>💻 알고리즘 문제 해결</h3>
+<a href="https://solved.ac/profile/mineruwo">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mineruwo" alt="mineruwo"/>
-</div>
+</a>
