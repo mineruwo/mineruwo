@@ -87,33 +87,38 @@
 
 ## 📚 학습 프로젝트 (Study Projects)
 
-### 🚚 화물 운송 중개 플랫폼 [📄](https://docs.google.com/presentation/d/1-f2L11L-bgyGYkBMXS3jffJ7c0uVMkKS-1JRHorLUuo/edit?usp=sharing)
+### 🚚 화물 운송 중개 플랫폼
 * **프로젝트 개요:** 화물주와 차주를 연결하는 운송 중개 플랫폼을 기획하고 개발했습니다. 실시간 추적, 정산 등 핵심 기능을 구현했습니다.
 * **개발 기간:** 2025.07.25 ~ 2025.09.05
 * **사용 기술:** `Java`, `React`, `JavaScript`, `PostgreSQL`, `Supabase`, `Render`
+* **포트폴리오:** [프로젝트 PPT](https://docs.google.com/presentation/d/1-f2L11L-bgyGYkBMXS3jffJ7c0uVMkKS-1JRHorLUuo/edit?usp=sharing)
 
-### 👕 의류 쇼핑몰 클론 [📄](https://docs.google.com/presentation/d/1Q1C6WtoUIJLVbGpRb6FffnpWh_nJckB9g26RgKeLu5o/edit?usp=sharing)
+### 👕 의류 쇼핑몰 클론
 * **프로젝트 목표:** 가상의 의류 쇼핑몰을 제작하여 실제 서비스와 가까운 UI/UX 및 기능 구현을 목표로 개발을 진행했습니다.
 * **개발 기간:** 2025.04.22 ~ 2025.05.08 (약 2주)
 * **사용 기술:** `HTML`, `CSS`, `JavaScript`, `VSCode`
+* **포트폴리오:** [프로젝트 PPT](https://docs.google.com/presentation/d/1Q1C6WtoUIJLVbGpRb6FffnpWh_nJckB9g26RgKeLu5o/edit?usp=sharing)
 
-### 🦆 Untitled Goose Game 모작 [📄](https://docs.google.com/presentation/d/1tFk5OIsFmb7sqxBz_EefUPv6y6cLnzJtOdg4nU9aWDc/edit?usp=sharing)
+### 🦆 Untitled Goose Game 모작
 * **게임 장르:** 퍼즐 / 잠입
 * **개발 기간:** 2022.07.12 ~ 2022.07.26 (2주, 4인 팀)
 * **게임 소개:** Unity 엔진을 사용하여 'Untitled Goose Game'의 핵심 메커니즘인 퍼즐 및 잠입 플레이를 구현하는 모작 프로젝트를 진행했습니다.
 * **사용 기술:** `Unity`, `C#`, `Git`
+* **포트폴리오:** [프로젝트 PPT](https://docs.google.com/presentation/d/1tFk5OIsFmb7sqxBz_EefUPv6y6cLnzJtOdg4nU9aWDc/edit?usp=sharing)
 
-### 🤖 Into the Breach 모작 [📄](https://docs.google.com/presentation/d/1av6Px3jQs6zry_Fy-_HpJ-revbCaAJn1lAppDcN884k/edit?usp=sharing)
+### 🤖 Into the Breach 모작
 * **게임 장르:** 전략 시뮬레이션 / 로그라이크
 * **개발 기간:** 2022.06.20 ~ 2022.07.01 (2주, 개인 프로젝트)
 * **게임 소개:** 'Into the Breach'의 타일 기반 전략 및 로그라이크 요소를 분석하고, Unity를 통해 1인 개발로 게임 시스템을 구현했습니다.
 * **사용 기술:** `Unity`, `C#`, `Git`
+* **포트폴리오:** [프로젝트 PPT](https://docs.google.com/presentation/d/1av6Px3jQs6zry_Fy-_HpJ-revbCaAJn1lAppDcN884k/edit?usp=sharing)
 
-### 🍓 Celeste 모작 [📄](https://docs.google.com/presentation/d/1kiEqAuKJ2osnIdRzIdB5Zn74QNlmbaswn0sxYewhOd8/edit?usp=sharing)
+### 🍓 Celeste 모작
 * **게임 장르:** 플랫포머 / 액션
 * **개발 기간:** 2022.06.20 ~ 2022.07.01 (2주, 3인 팀)
 * **게임 소개:** SFML 라이브러리를 사용하여 'Celeste'의 정교한 플랫포머 물리 및 액션성을 구현하는 프로젝트를 팀원들과 함께 수행했습니다.
 * **사용 기술:** `SFML`, `C++`, `Git`
+* **포트폴리오:** [프로젝트 PPT](https://docs.google.com/presentation/d/1kiEqAuKJ2osnIdRzIdB5Zn74QNlmbaswn0sxYewhOd8/edit?usp=sharing)
 
 <br>
 
