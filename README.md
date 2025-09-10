@@ -35,6 +35,13 @@
     </td>
   </tr>
   <tr style="border: none;">
+    <td style="border: none;"><strong>클라우드<br>(Cloud)</strong></td>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/gcp-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+    </td>
+  </tr>
+  <tr style="border: none;">
     <td style="border: none;"><strong>도구<br>(Tools)</strong></td>
     <td style="border: none;">
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
