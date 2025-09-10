@@ -48,6 +48,10 @@
       <img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"/>
       <img src="https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
       <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/visual_studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -74,7 +78,7 @@
 * **사용 기술:** `Unity`, `OpenCV`, `Local ImageServer API`, `CameraSDK`
 
 #### ✨ Oshi Poster (3D 포스터) [🔗](https://www.mirartstudio.co.kr/)
-* **주요 업무:** 3D Depth 카메라와 Unity, OpenCV를 이용한 3D 포스터 서비스를 개발하고 성공적으로 런칭했습니다.
+* **주요 업무:** 3D Depth 카메라와 Unity, OpenCV를 이용한 3D 포스터 서비스를 개발했습니다.
 * **사용 기술:** `Volt CameraSDK`, `Astra 3D depth CameraSDK`, `Unity`, `OpenCV`
 
 #### 📱 Mirat App (고객 관리 앱) [🔗](https://play.google.com/store/apps/details?id=com.mirrorroid.mirart.user)
