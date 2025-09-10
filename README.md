@@ -137,8 +137,7 @@
 <a href="https://github.com/mineruwo">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mineruwo&layout=compact&theme=tokyonight" alt="mineruwo의 상위 언어" />
 </a>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=mineruwo" alt="mineruwo" />
+
 
 <br>
 
