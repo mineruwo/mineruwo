@@ -40,6 +40,50 @@
 
 <br>
 
+## 🚀 프로젝트 경험 (Project Experience)
+
+### ㈜ 미러로이드 (2022.10 ~ 2025.02)
+*총 2년 4개월*
+
+1.  **Mirat (헤어 시뮬레이션)**
+    - Unity, OpenCV 등을 이용한 서비스 개발 및 앱 유지 보수
+
+2.  **Mirat Beauty (반영구 시술 시뮬레이션)**
+    - Unity, Image Server API 통신을 이용한 서비스 개발 및 런칭, 유지 보수
+
+3.  **Mirat Studio (포토 스튜디오)**
+    - Unity, OpenCV, Local ImageServer API, CameraSDK 등을 이용한 서비스 개발 및 런칭, 유지 보수 및 국외 런칭
+
+4.  **Magic photo (프로젝트 가제, 3D 포스터)**
+    - Volt CameraSDK, Astra 3D depth CameraSDK, Unity, OpenCV 등을 이용한 서비스 개발
+
+5.  **Mirat App (Mirat와 연동되는 고객 관리 앱)**
+    - Unity와 UniWebView를 이용한 지정된 페이지 뷰어 프로그램 서비스 및 런칭
+
+<br>
+
+## 📚 학습 프로젝트 (Study Projects)
+
+### 🦆 Untitled Goose Game 모작
+* **게임 장르:** 퍼즐 / 잠입
+* **개발 기간:** 2022.07.12 ~ 2022.07.26 (2주, 4인 팀)
+* **게임 소개:** 거위가 되어 마을 주민들을 괴롭히거나 물건을 수집하여 목표를 달성하고, 목표 지점까지 도착하는 퍼즐 게임.
+* **사용 기술:** `Unity`, `C#`, `Git`
+
+### 🤖 Into the Breach 모작
+* **게임 장르:** 전략 시뮬레이션 / 로그라이크
+* **개발 기간:** 2022.06.20 ~ 2022.07.01 (2주, 개인 프로젝트)
+* **게임 소개:** 로봇을 명령하는 지휘관이 되어 외계의 침략을 막는 전략 게임.
+* **사용 기술:** `Unity`, `C#`, `Git`
+
+### 🍓 Celeste 모작
+* **게임 장르:** 플랫포머 / 액션
+* **개발 기간:** 2022.06.20 ~ 2022.07.01 (2주, 3인 팀)
+* **게임 소개:** 딸기를 수집하며 목표 지점까지 도착하는 게임.
+* **사용 기술:** `SFML`, `C++`, `Git`
+
+<br>
+
 <h3>📊 GitHub 통계</h3>
 <a href="https://github.com/mineruwo">
   <img src="https://github-readme-stats.vercel.app/api?username=mineruwo&show_icons=true&theme=tokyonight" alt="mineruwo의 GitHub 통계" />
