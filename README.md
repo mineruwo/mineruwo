@@ -75,29 +75,29 @@
 
 ## 📚 학습 프로젝트 (Study Projects)
 
-### 🚚 화물 운송 중개 플랫폼
+### 🚚 화물 운송 중개 플랫폼 [📄](https://docs.google.com/presentation/d/1-f2L11L-bgyGYkBMXS3jffJ7c0uVMkKS-1JRHorLUuo/edit?usp=sharing)
 * **프로젝트 개요:** 화물주와 차주 간의 운송 주문을 연결하고 효율적으로 관리하기 위한 플랫폼입니다. 실시간 운송 추적, 정산 시스템, 그리고 사용자 및 관리자 간의 원활한 소통을 지원합니다.
 * **개발 기간:** 2025.07.25 ~ 2025.09.05
 * **사용 기술:** `Java`, `React`, `JavaScript`, `PostgreSQL`, `Supabase`, `Render`
 
-### 👕 의류 쇼핑몰 클론
+### 👕 의류 쇼핑몰 클론 [📄](https://docs.google.com/presentation/d/1Q1C6WtoUIJLVbGpRb6FffnpWh_nJckB9g26RgKeLu5o/edit?usp=sharing)
 * **프로젝트 목표:** 가상의 의류 쇼핑몰을 제작하여 기능 구현 및 실제 동작과 가깝게 이용자에게 제공하고자 함 (참고: 무신사, H&M)
 * **개발 기간:** 2025.04.22 ~ 2025.05.08 (약 2주)
 * **사용 기술:** `HTML`, `CSS`, `JavaScript`, `VSCode`
 
-### 🦆 Untitled Goose Game 모작
+### 🦆 Untitled Goose Game 모작 [📄](https://docs.google.com/presentation/d/1tFk5OIsFmb7sqxBz_EefUPv6y6cLnzJtOdg4nU9aWDc/edit?usp=sharing)
 * **게임 장르:** 퍼즐 / 잠입
 * **개발 기간:** 2022.07.12 ~ 2022.07.26 (2주, 4인 팀)
 * **게임 소개:** 거위가 되어 마을 주민들을 괴롭히거나 물건을 수집하여 목표를 달성하고, 목표 지점까지 도착하는 퍼즐 게임.
 * **사용 기술:** `Unity`, `C#`, `Git`
 
-### 🤖 Into the Breach 모작
+### 🤖 Into the Breach 모작 [📄](https://docs.google.com/presentation/d/1av6Px3jQs6zry_Fy-_HpJ-revbCaAJn1lAppDcN884k/edit?usp=sharing)
 * **게임 장르:** 전략 시뮬레이션 / 로그라이크
 * **개발 기간:** 2022.06.20 ~ 2022.07.01 (2주, 개인 프로젝트)
 * **게임 소개:** 로봇을 명령하는 지휘관이 되어 외계의 침략을 막는 전략 게임.
 * **사용 기술:** `Unity`, `C#`, `Git`
 
-### 🍓 Celeste 모작
+### 🍓 Celeste 모작 [📄](https://docs.google.com/presentation/d/1kiEqAuKJ2osnIdRzIdB5Zn74QNlmbaswn0sxYewhOd8/edit?usp=sharing)
 * **게임 장르:** 플랫포머 / 액션
 * **개발 기간:** 2022.06.20 ~ 2022.07.01 (2주, 3인 팀)
 * **게임 소개:** 딸기를 수집하며 목표 지점까지 도착하는 게임.
