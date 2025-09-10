@@ -46,6 +46,7 @@
     <td style="border: none;">
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+      <img src="https://img.shields.io/badge/trello-%230079BF.svg?style=for-the-badge&logo=trello&logoColor=white"/>
       <img src="https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
       <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -139,4 +140,6 @@
 <br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mineruwo" alt="mineruwo" />
+  <br>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mineruwo" alt="mineruwo"/>
 </div>
