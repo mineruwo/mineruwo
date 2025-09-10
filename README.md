@@ -2,6 +2,8 @@
 
 <br>
 
+---
+
 <h3>🛠️ 기술 스택</h3>
 <table style="border: none;">
   <tr style="border: none;">
@@ -40,6 +42,8 @@
 
 <br>
 
+---
+
 ## 🚀 프로젝트 경험 (Project Experience)
 
 ### ㈜ 미러로이드 (2022.10 ~ 2025.02)
@@ -66,6 +70,8 @@
 * **사용 기술:** `Unity`, `UniWebView`
 
 <br>
+
+---
 
 ## 📚 학습 프로젝트 (Study Projects)
 
@@ -99,6 +105,8 @@
 
 <br>
 
+---
+
 <h3>📊 GitHub 통계</h3>
 <a href="https://github.com/mineruwo">
   <img src="https://github-readme-stats.vercel.app/api?username=mineruwo&show_icons=true&theme=tokyonight" alt="mineruwo의 GitHub 통계" />
@@ -107,3 +115,7 @@
 <a href="https://github.com/mineruwo">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mineruwo&layout=compact&theme=tokyonight" alt="mineruwo의 상위 언어" />
 </a>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mineruwo" alt="mineruwo" />
+</div>
