@@ -78,11 +78,11 @@
 * **주요 업무:** Unity, OpenCV, CameraSDK 등을 활용하여 포토 스튜디오 서비스를 개발하고 국내외 런칭 및 유지 보수를 총괄했습니다.
 * **사용 기술:** `Unity`, `OpenCV`, `Local ImageServer API`, `CameraSDK`
 
-#### ✨ Oshi Poster (3D 포스터) [🔗](https://www.mirartstudio.co.kr/)
+#### ✨ Oshi Poster (3D 포스터) [🔗](https://xrdive.net/oshiposter/)
 * **주요 업무:** 3D Depth 카메라와 Unity, OpenCV를 이용한 3D 포스터 서비스를 개발했습니다.
 * **사용 기술:** `Volt CameraSDK`, `Astra 3D depth CameraSDK`, `Unity`, `OpenCV`
 
-#### 📱 Mirat App (고객 관리 앱) [🔗](https://play.google.com/store/apps/details?id=com.mirrorroid.mirart.user)
+#### 📱 Mirat App (고객 관리 앱) [🔗]((https://play.google.com/store/search?q=%EB%AF%B8%EB%9D%BC%ED%8A%B8&c=apps)
 * **주요 업무:** 고객 관리를 위한 Mirat 연동 앱을 Unity와 UniWebView를 이용하여 개발 및 런칭했습니다.
 * **사용 기술:** `Unity`, `UniWebView`
 
